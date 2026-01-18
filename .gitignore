@@ -1,0 +1,21 @@
+# Ignore Jupyter notebooks
+*.ipynb
+
+# Ignore CSV test data
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
