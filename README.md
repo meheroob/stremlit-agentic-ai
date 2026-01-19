@@ -43,3 +43,6 @@ This project implements a Streamlit-based AI assistant for insurance and pension
 ## Notes
 - bq_init.py is offline only; do not include it in app runtime.
 - Pension RAG queries (retrieve_pension_chunks) rely on the BigQuery table populated by bq_init.py.
+
+
+Just for fun : App is currently hosted here -> https://my-chatbot-537553334366.europe-central2.run.app/
